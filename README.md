@@ -1,0 +1,2 @@
+# Cryptocurrencies
+This week we'll dive deeper into machine learning using unsupervised algorithms, which help us explore data when we're not sure what we're looking for. Now you can analyze data without a clear output in mind. You'll work primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. We'll build on this by speeding up the process using principal component analysis (PCA), which employs many different features. Before starting this module, you should have a strong understanding of training and testing datasets.
